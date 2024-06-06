@@ -6,7 +6,7 @@ This Repository **Boilerplates** is a template collection. Here you'll find temp
 
 > :warning: Be aware, products can change over time. I do my best to keep up with the latest changes and releases, but please understand that this won’t always be the case, so check official documantation.
 
-I created them as free resources to be used in your specific use cases. If you're searching for detailed, in-depth tutorials on some tools or technologies, check out Christian Lempa official youtube: [YouTube Channel](https://www.youtube.com/@christianlempa).
+They were created as free resources to be used in your specific use cases. If you're searching for detailed, in-depth tutorials on some tools or technologies, check out Christian Lempa official youtube: [YouTube Channel](https://www.youtube.com/@christianlempa).
 
 ## Other Resources
 
